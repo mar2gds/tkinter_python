@@ -1,0 +1,200 @@
+1,Smartphone Android,12,1299.90
+2,Camiseta Basica,34,39.90
+3,Cafe Torrado 500g,20,22.50
+4,Notebook 15 Polegadas,5,3499.00
+5,Cadeira de Escritorio,8,599.90
+6,Fone de Ouvido Bluetooth,15,199.90
+7,Arroz 5kg,40,28.00
+8,Tenis Esportivo,18,249.90
+9,Relogio Digital,22,89.90
+10,Smart TV 50 Polegadas,6,2799.00
+11,Mouse Gamer,25,129.90
+12,Teclado Mecanico,10,299.90
+13,Chocolate 100g,50,7.50
+14,Leite Integral 1L,60,5.90
+15,Geladeira Duplex,3,3899.00
+16,Micro-ondas 30L,9,499.90
+17,Liquidificador,14,149.90
+18,Panela de Pressao,11,189.90
+19,Sofa 3 Lugares,4,1599.00
+20,Mesa de Jantar,7,899.90
+21,Perfume Masculino,13,199.90
+22,Perfume Feminino,12,219.90
+23,Shampoo 400ml,30,18.90
+24,Condicionador 400ml,28,19.90
+25,Sabonete 90g,100,2.50
+26,Toalha de Banho,16,49.90
+27,Lampada LED,45,12.90
+28,Extensao Eletrica,20,29.90
+29,Carregador USB,33,39.90
+30,Power Bank 10000mAh,17,99.90
+31,Tablet 10 Polegadas,6,1299.00
+32,Camera Digital,5,1899.00
+33,Tripe para Camera,19,79.90
+34,Mochila Escolar,24,89.90
+35,Caneta Esferografica,200,1.50
+36,Caderno Universitario,40,15.90
+37,Impressora Multifuncional,7,699.90
+38,Papel A4 500 folhas,22,29.90
+39,Garrafa Termica,18,59.90
+40,Copo Termico,26,39.90
+41,Bicicleta Aro 29,3,1499.00
+42,Capacete Ciclismo,9,129.90
+43,Bola de Futebol,14,79.90
+44,Luva de Academia,20,49.90
+45,Suplemento Whey Protein,11,199.90
+46,Barra de Proteina,60,8.90
+47,Agua Mineral 1.5L,100,3.50
+48,Refrigerante 2L,70,8.90
+49,Cerveja Lata,120,4.50
+50,Vinho Tinto,25,49.90
+51,Azeite de Oliva 500ml,18,29.90
+52,Macarrao 500g,80,4.90
+53,Molho de Tomate,75,3.90
+54,Farinha de Trigo 1kg,60,6.50
+55,Acucar 1kg,65,4.20
+56,Sal 1kg,70,2.20
+57,Frigideira Antiaderente,15,79.90
+58,Panela Eletrica,8,249.90
+59,Air Fryer,10,399.90
+60,Cafeteira Eletrica,12,199.90
+61,Ferro de Passar,14,129.90
+62,Aspirador de Po,6,499.90
+63,Ventilador,20,199.90
+64,Ar Condicionado 12000BTU,5,1899.00
+65,Aquecedor Eletrico,13,149.90
+66,Travesseiro,35,39.90
+67,Lencol Casal,18,89.90
+68,Cobertor,12,129.90
+69,Edredom,9,199.90
+70,Cortina,16,79.90
+71,Tapete Sala,11,149.90
+72,Quadro Decorativo,20,59.90
+73,Luminaria de Mesa,15,69.90
+74,Espelho Decorativo,10,99.90
+75,Relogio de Parede,18,49.90
+76,Mala de Viagem,7,299.90
+77,Necessaire,22,39.90
+78,Oculos de Sol,19,129.90
+79,Bolsa Feminina,12,199.90
+80,Carteira Masculina,17,79.90
+81,Cinto de Couro,14,69.90
+82,Jaqueta Jeans,9,189.90
+83,Calca Jeans,20,119.90
+84,Bermuda,18,79.90
+85,Meia Esportiva,50,19.90
+86,Chinelo,30,29.90
+87,Sapato Social,11,199.90
+88,Bota Feminina,8,249.90
+89,Sandalia,15,99.90
+90,Blusa Moletom,13,129.90
+91,Vestido Casual,10,149.90
+92,Saia,12,89.90
+93,Gravata,18,49.90
+94,Bone,25,39.90
+95,Chapeu,14,59.90
+96,Livro Romance,30,39.90
+97,Livro Tecnico,12,99.90
+98,Revista,40,12.90
+99,DVD Filme,20,19.90
+100,Jogo de Tabuleiro,9,149.90
+101,Console Portatil,6,899.90
+102,Controle Gamer,14,199.90
+103,Headset Gamer,11,299.90
+104,Cadeira Gamer,5,1299.90
+105,Monitor 24 Polegadas,8,899.90
+106,HD Externo 1TB,10,349.90
+107,SSD 480GB,12,299.90
+108,Placa de Video,4,2499.90
+109,Processador,6,1899.90
+110,Memoria RAM 16GB,9,399.90
+111,Teclado Sem Fio,15,149.90
+112,Mouse Sem Fio,18,99.90
+113,Webcam HD,16,129.90
+114,Roteador WiFi,13,199.90
+115,Switch de Rede,11,149.90
+116,Cabo HDMI,40,29.90
+117,Cabo USB,50,19.90
+118,Adaptador USB-C,22,49.90
+119,Suporte para Notebook,14,89.90
+120,Base Cooler Notebook,12,79.90
+121,Cadeira Plastica,30,49.90
+122,Mesa Plastica,20,99.90
+123,Guarda-roupa,4,1599.90
+124,Cama Casal,5,1299.90
+125,Colchao Casal,7,899.90
+126,Travesseiro Ortopedico,15,79.90
+127,Luminaria LED,18,59.90
+128,Espelho Corpo Inteiro,6,199.90
+129,Comoda,8,699.90
+130,Estante,9,499.90
+131,Banco de Jardim,10,299.90
+132,Churrasqueira,6,399.90
+133,Espeto para Churrasco,35,29.90
+134,Grelha,25,49.90
+135,Carvao 5kg,20,34.90
+136,Isqueiro,60,5.90
+137,Panela de Ferro,12,129.90
+138,Forma de Bolo,22,39.90
+139,Assadeira,20,49.90
+140,Escorredor de Louca,18,59.90
+141,Lixeira,25,39.90
+142,Balde,30,19.90
+143,Vassoura,40,15.90
+144,Rodo,35,17.90
+145,Pano de Chao,50,9.90
+146,Detergente,70,3.90
+147,Desinfetante,60,6.90
+148,Alcool 70%,55,7.90
+149,Luva de Limpeza,45,8.90
+150,Esponja,80,2.50
+151,Escova de Dente,60,4.90
+152,Creme Dental,55,6.50
+153,Fio Dental,40,5.90
+154,Enxaguante Bucal,30,12.90
+155,Desodorante,35,14.90
+156,Protetor Solar,20,39.90
+157,Maquiagem Kit,10,129.90
+158,Esmalte,50,7.90
+159,Secador de Cabelo,12,199.90
+160,Chapinha,10,149.90
+161,Barbeador Eletrico,8,249.90
+162,Maquina de Cortar Cabelo,9,199.90
+163,Balanca Digital,14,89.90
+164,Termometro Digital,18,39.90
+165,Oximetro,12,79.90
+166,Kit Primeiros Socorros,16,59.90
+167,Mochila Viagem,11,199.90
+168,Travesseiro Inflavel,20,29.90
+169,Garrafa Esportiva,25,39.90
+170,Toalha Esportiva,22,29.90
+171,Corda de Pular,30,19.90
+172,Colchonete,15,79.90
+173,Elastico Fitness,28,29.90
+174,Anilha 5kg,18,49.90
+175,Barra Musculacao,10,129.90
+176,Bicicleta Ergonometrica,4,1499.90
+177,Esteira Eletrica,3,2999.90
+178,Patinete,8,499.90
+179,Skate,12,199.90
+180,Capacete Skate,15,99.90
+181,Drone,5,1999.90
+182,Camera Acao,7,999.90
+183,Tripe Flexivel,20,59.90
+184,Iluminador LED,14,129.90
+185,Microfone,11,199.90
+186,Caixa de Som Bluetooth,13,249.90
+187,Soundbar,6,799.90
+188,Projetor,5,1499.90
+189,Tela de Projecao,7,399.90
+190,Console Videogame,4,2999.90
+191,Jogo Videogame,20,249.90
+192,Controle Extra,15,199.90
+193,Cartao de Memoria 64GB,25,79.90
+194,Pen Drive 32GB,30,49.90
+195,HD SSD 1TB,10,599.90
+196,Placa Mae,6,899.90
+197,Fonte ATX,8,399.90
+198,Gabinete Gamer,7,499.90
+199,Cooler RGB,12,129.90
+200,Kit Upgrade PC,5,1999.90
